@@ -1,7 +1,7 @@
 #while 조건을 만족할때까지 반복
 
 # customer="토르"
-# index=5
+# inex=5d
 # while index >= 1:
 #     print("{0}, 커피가 준비되었습니다.{1}번 남았어요.".format(customer,index))
 #     index -=1  #1번씩 줄여나감
